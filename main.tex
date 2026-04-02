@@ -1,0 +1,114 @@
+\documentclass[a4paper,12pt, oneside]{book}
+\usepackage[swedish]{babel} % choose the language
+\usepackage[utf8]{inputenc} % äöå
+\usepackage[T1]{fontenc}
+\usepackage[a4paper, inner=3cm, outer=3cm, top=3cm, bottom=3cm]{geometry}
+\usepackage{mathptmx} % Times New Roman
+\usepackage{tikz} % Support for pictures in latex format -> convert svg files into tikz format at first
+\usepackage{etoolbox} % this one makes a workaround with page numbering possible
+
+\usepackage[style=numeric-comp,sorting=nyt,backend=biber,language=swedish]{biblatex}
+
+\usepackage{csquotes} % BibLaTex stuff
+\usepackage[
+  style=numeric-comp,
+  sorting=nyt,
+  backend=biber
+]{biblatex}
+\ExecuteBibliographyOptions{url=true, doi=true}
+\addbibresource{Kapitel/referenser.bib}
+
+\usepackage[
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=blue
+]{hyperref}
+\usepackage{xurl}
+
+\usepackage{setspace}
+
+% Table of contents
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+%------------Titel-----------%
+\begin{document}
+
+\pagestyle{empty}    
+\begingroup
+\patchcmd{\chapter}{plain}{empty}{}{}
+
+\begin{titlepage}
+    \newgeometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+    \thispagestyle{empty}
+
+    \begin{flushleft} 
+        \includegraphics[width=2.5cm]{ÅA logo}
+    \end{flushleft}   
+    
+    \vspace*{0.5cm}
+    
+    \begin{center}
+        {\huge \textbf{Social Engineering inom cybersäkerhet}}\\[0.6cm]
+        {\Large Psykologiska och tekniska aspekter av digital manipulation}\\[0.6cm]
+        {\Large Max Ruotsalainen}
+
+    \vfill
+    \begin{center}
+        \includegraphics[width=6.5cm, height=6.5cm]{ÅA signum}
+    \end{center}
+        
+    \end{center}
+
+    \vfill
+
+    \hfill
+    \begin{flushright}
+        Kandidatavhandling i datateknik\\
+        Handledare: Annamari Soini\\
+        Fakulteten för naturvetenskap och teknik\\
+        Åbo Akademi\\
+        2026
+    \end{flushright}
+    \restoregeometry
+\end{titlepage}
+
+\clearpage
+\pagestyle{plain}    
+\onehalfspacing
+\section*{\LARGE Referat}
+\thispagestyle{empty}
+
+I ett växande samhälle där digitala tjänster, molnplattformar och nätverksbaserade system kontinuerligt integreras i både offentliga och privata verksamheter, ökar betydelsen av cybersäkerhet. I takt med att skyddsåtgärder utvecklas förändras hotbilden. En särskilt framträdande kategori av hot är social engineering, där hotaktörer inte direkt utnyttjar tekniska sårbarheter utan manipulerar mänskligt beteende och beslutsfattande. Avhandlingen analyserar social engineering som ett cybersäkerhetshot i moderna digitala miljöer med fokus på hur tekniska verktyg och psykologiska mekanismer samverkar för att möjliggöra framgångsrika cyberattacker.
+
+Utvecklingen av artificiell intelligens och generativa modeller har ytterligare förändrat hotlandskapet. Deepfake-teknologi och AI-genereradt innehåll skapar nya möjligheter för hotaktörer att producera mer trovärdiga och tekniskt sofistikerade bedrägerier. Även om hotbilden har ökat i komplexitet, finns det olika tekniska och organisatoriska försvarsmekanismer som kan användas för att minska risken för manipulation. Genom att förstå social engineering som ett sociotekniskt säkerhetshot, där tekniska, organisatoriska och mänskliga faktorer samverkar, kan mer effektiva skyddsåtgärder utvecklas.
+
+\section*{\LARGE Nyckelord}
+%----------Innehållsförteckning------------%
+\tableofcontents 
+
+\endgroup % end of TeX group
+
+\clearpage
+\pagestyle{plain}    
+
+\onehalfspacing
+
+\pagenumbering{arabic} % Page numbering starts from here
+
+\input{Kapitel/Inledning} 
+
+\input{Kapitel/Bakgrund och Teori} 
+
+\input{Kapitel/Social engineering i praktiken} 
+
+\input{Kapitel/Tekniska motåtgärder}
+
+\input{Kapitel/Diskussion} 
+
+\input{Kapitel/Slutsats} 
+
+\input{Kapitel/Källförteckning}
+
+\end{document}
