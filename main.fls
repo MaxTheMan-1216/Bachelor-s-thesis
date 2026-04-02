@@ -157,6 +157,8 @@ INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzl
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
 INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
@@ -291,21 +293,21 @@ OUTPUT main.pdf
 INPUT .\main.out
 INPUT .\main.out
 OUTPUT main.out
-INPUT .\ÅA logo.jpg
-INPUT .\ÅA logo.jpg
-INPUT .\ÅA logo.jpg
-INPUT .\ÅA logo.jpg
-INPUT .\ÅA logo.jpg
-INPUT .\ÅA logo.jpg
+INPUT .\Bilder\ÅA logo.jpg
+INPUT .\Bilder\ÅA logo.jpg
+INPUT .\Bilder\ÅA logo.jpg
+INPUT .\Bilder\ÅA logo.jpg
+INPUT .\Bilder\ÅA logo.jpg
+INPUT .\Bilder\ÅA logo.jpg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT .\ÅA signum.jpg
-INPUT .\ÅA signum.jpg
-INPUT .\ÅA signum.jpg
-INPUT .\ÅA signum.jpg
-INPUT .\ÅA signum.jpg
-INPUT .\ÅA signum.jpg
+INPUT .\Bilder\ÅA signum.jpg
+INPUT .\Bilder\ÅA signum.jpg
+INPUT .\Bilder\ÅA signum.jpg
+INPUT .\Bilder\ÅA signum.jpg
+INPUT .\Bilder\ÅA signum.jpg
+INPUT .\Bilder\ÅA signum.jpg
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\Max\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -370,8 +372,26 @@ INPUT .\Kapitel\Bakgrund och Teori.tex
 INPUT .\Kapitel\Bakgrund och Teori.tex
 INPUT .\Kapitel\Bakgrund och Teori.tex
 INPUT Kapitel\Bakgrund och Teori.tex
+INPUT .\Bilder\SE.png
+INPUT .\Bilder\SE.png
+INPUT .\Bilder\SE.png
+INPUT .\Bilder\SE.png
+INPUT .\Bilder\SE.png
+INPUT .\Bilder\SE.png
+INPUT .\Bilder\Social Engineering Attacks_ A Survey.jpg
+INPUT .\Bilder\Social Engineering Attacks_ A Survey.jpg
+INPUT .\Bilder\Social Engineering Attacks_ A Survey.jpg
+INPUT .\Bilder\Social Engineering Attacks_ A Survey.jpg
+INPUT .\Bilder\Social Engineering Attacks_ A Survey.jpg
+INPUT .\Bilder\Social Engineering Attacks_ A Survey.jpg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\Kapitel\Social engineering i praktiken.tex
@@ -379,6 +399,18 @@ INPUT .\Kapitel\Social engineering i praktiken.tex
 INPUT .\Kapitel\Social engineering i praktiken.tex
 INPUT .\Kapitel\Social engineering i praktiken.tex
 INPUT Kapitel\Social engineering i praktiken.tex
+INPUT .\Bilder\SE3.png
+INPUT .\Bilder\SE3.png
+INPUT .\Bilder\SE3.png
+INPUT .\Bilder\SE3.png
+INPUT .\Bilder\SE3.png
+INPUT .\Bilder\SE3.png
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg
+INPUT .\Bilder\A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg
 INPUT .\Kapitel\Tekniska motåtgärder.tex
 INPUT .\Kapitel\Tekniska motåtgärder.tex
 INPUT .\Kapitel\Tekniska motåtgärder.tex

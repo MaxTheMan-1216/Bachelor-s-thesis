@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 22:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -328,6 +328,13 @@ File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count310
+) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count311
+\float@exts=\toks33
+\float@box=\box64
+\@float@everytoks=\toks34
+\@floatcapt=\box65
 ) (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
  (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -346,7 +353,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count311
+\lrq@indent=\count312
  (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
@@ -355,49 +362,49 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count312
-\c@listtotal=\count313
-\c@listcount=\count314
-\c@liststart=\count315
-\c@liststop=\count316
-\c@citecount=\count317
-\c@citetotal=\count318
-\c@multicitecount=\count319
-\c@multicitetotal=\count320
-\c@instcount=\count321
-\c@maxnames=\count322
-\c@minnames=\count323
-\c@maxitems=\count324
-\c@minitems=\count325
-\c@citecounter=\count326
-\c@maxcitecounter=\count327
-\c@savedcitecounter=\count328
-\c@uniquelist=\count329
-\c@uniquename=\count330
-\c@refsection=\count331
-\c@refsegment=\count332
-\c@maxextratitle=\count333
-\c@maxextratitleyear=\count334
-\c@maxextraname=\count335
-\c@maxextradate=\count336
-\c@maxextraalpha=\count337
-\c@abbrvpenalty=\count338
-\c@highnamepenalty=\count339
-\c@lownamepenalty=\count340
-\c@maxparens=\count341
-\c@parenlevel=\count342
-\blx@tempcnta=\count343
-\blx@tempcntb=\count344
-\blx@tempcntc=\count345
-\c@blx@maxsection=\count346
-\blx@maxsegment@0=\count347
-\blx@notetype=\count348
-\blx@parenlevel@text=\count349
-\blx@parenlevel@foot=\count350
-\blx@sectionciteorder@0=\count351
-\blx@sectionciteorderinternal@0=\count352
-\blx@entrysetcounter=\count353
-\blx@biblioinstance=\count354
+\c@tabx@nest=\count313
+\c@listtotal=\count314
+\c@listcount=\count315
+\c@liststart=\count316
+\c@liststop=\count317
+\c@citecount=\count318
+\c@citetotal=\count319
+\c@multicitecount=\count320
+\c@multicitetotal=\count321
+\c@instcount=\count322
+\c@maxnames=\count323
+\c@minnames=\count324
+\c@maxitems=\count325
+\c@minitems=\count326
+\c@citecounter=\count327
+\c@maxcitecounter=\count328
+\c@savedcitecounter=\count329
+\c@uniquelist=\count330
+\c@uniquename=\count331
+\c@refsection=\count332
+\c@refsegment=\count333
+\c@maxextratitle=\count334
+\c@maxextratitleyear=\count335
+\c@maxextraname=\count336
+\c@maxextradate=\count337
+\c@maxextraalpha=\count338
+\c@abbrvpenalty=\count339
+\c@highnamepenalty=\count340
+\c@lownamepenalty=\count341
+\c@maxparens=\count342
+\c@parenlevel=\count343
+\blx@tempcnta=\count344
+\blx@tempcntb=\count345
+\blx@tempcntc=\count346
+\c@blx@maxsection=\count347
+\blx@maxsegment@0=\count348
+\blx@notetype=\count349
+\blx@parenlevel@text=\count350
+\blx@parenlevel@foot=\count351
+\blx@sectionciteorder@0=\count352
+\blx@sectionciteorderinternal@0=\count353
+\blx@entrysetcounter=\count354
+\blx@biblioinstance=\count355
 \labelnumberwidth=\skip51
 \labelalphawidth=\skip52
 \biblabelsep=\skip53
@@ -409,9 +416,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count355
-\c@maxcomprange=\count356
-\c@mincompwidth=\count357
+\c@mincomprange=\count356
+\c@maxcomprange=\count357
+\c@mincompwidth=\count358
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -421,74 +428,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count358
-\c@savedafterword=\count359
-\c@annotator=\count360
-\c@savedannotator=\count361
-\c@author=\count362
-\c@savedauthor=\count363
-\c@bookauthor=\count364
-\c@savedbookauthor=\count365
-\c@commentator=\count366
-\c@savedcommentator=\count367
-\c@editor=\count368
-\c@savededitor=\count369
-\c@editora=\count370
-\c@savededitora=\count371
-\c@editorb=\count372
-\c@savededitorb=\count373
-\c@editorc=\count374
-\c@savededitorc=\count375
-\c@foreword=\count376
-\c@savedforeword=\count377
-\c@holder=\count378
-\c@savedholder=\count379
-\c@introduction=\count380
-\c@savedintroduction=\count381
-\c@namea=\count382
-\c@savednamea=\count383
-\c@nameb=\count384
-\c@savednameb=\count385
-\c@namec=\count386
-\c@savednamec=\count387
-\c@translator=\count388
-\c@savedtranslator=\count389
-\c@shortauthor=\count390
-\c@savedshortauthor=\count391
-\c@shorteditor=\count392
-\c@savedshorteditor=\count393
-\c@labelname=\count394
-\c@savedlabelname=\count395
-\c@institution=\count396
-\c@savedinstitution=\count397
-\c@lista=\count398
-\c@savedlista=\count399
-\c@listb=\count400
-\c@savedlistb=\count401
-\c@listc=\count402
-\c@savedlistc=\count403
-\c@listd=\count404
-\c@savedlistd=\count405
-\c@liste=\count406
-\c@savedliste=\count407
-\c@listf=\count408
-\c@savedlistf=\count409
-\c@location=\count410
-\c@savedlocation=\count411
-\c@organization=\count412
-\c@savedorganization=\count413
-\c@origlocation=\count414
-\c@savedoriglocation=\count415
-\c@origpublisher=\count416
-\c@savedorigpublisher=\count417
-\c@publisher=\count418
-\c@savedpublisher=\count419
-\c@language=\count420
-\c@savedlanguage=\count421
-\c@origlanguage=\count422
-\c@savedoriglanguage=\count423
-\c@pageref=\count424
-\c@savedpageref=\count425
+\c@afterword=\count359
+\c@savedafterword=\count360
+\c@annotator=\count361
+\c@savedannotator=\count362
+\c@author=\count363
+\c@savedauthor=\count364
+\c@bookauthor=\count365
+\c@savedbookauthor=\count366
+\c@commentator=\count367
+\c@savedcommentator=\count368
+\c@editor=\count369
+\c@savededitor=\count370
+\c@editora=\count371
+\c@savededitora=\count372
+\c@editorb=\count373
+\c@savededitorb=\count374
+\c@editorc=\count375
+\c@savededitorc=\count376
+\c@foreword=\count377
+\c@savedforeword=\count378
+\c@holder=\count379
+\c@savedholder=\count380
+\c@introduction=\count381
+\c@savedintroduction=\count382
+\c@namea=\count383
+\c@savednamea=\count384
+\c@nameb=\count385
+\c@savednameb=\count386
+\c@namec=\count387
+\c@savednamec=\count388
+\c@translator=\count389
+\c@savedtranslator=\count390
+\c@shortauthor=\count391
+\c@savedshortauthor=\count392
+\c@shorteditor=\count393
+\c@savedshorteditor=\count394
+\c@labelname=\count395
+\c@savedlabelname=\count396
+\c@institution=\count397
+\c@savedinstitution=\count398
+\c@lista=\count399
+\c@savedlista=\count400
+\c@listb=\count401
+\c@savedlistb=\count402
+\c@listc=\count403
+\c@savedlistc=\count404
+\c@listd=\count405
+\c@savedlistd=\count406
+\c@liste=\count407
+\c@savedliste=\count408
+\c@listf=\count409
+\c@savedlistf=\count410
+\c@location=\count411
+\c@savedlocation=\count412
+\c@organization=\count413
+\c@savedorganization=\count414
+\c@origlocation=\count415
+\c@savedoriglocation=\count416
+\c@origpublisher=\count417
+\c@savedorigpublisher=\count418
+\c@publisher=\count419
+\c@savedpublisher=\count420
+\c@language=\count421
+\c@savedlanguage=\count422
+\c@origlanguage=\count423
+\c@savedoriglanguage=\count424
+\c@pageref=\count425
+\c@savedpageref=\count426
 \shorthandwidth=\skip59
 \shortjournalwidth=\skip60
 \shortserieswidth=\skip61
@@ -512,19 +519,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count426
-\c@textcitetotal=\count427
-\c@textcitemaxnames=\count428
-\c@biburlbigbreakpenalty=\count429
-\c@biburlbreakpenalty=\count430
-\c@biburlnumpenalty=\count431
-\c@biburlucpenalty=\count432
-\c@biburllcpenalty=\count433
+\c@textcitecount=\count427
+\c@textcitetotal=\count428
+\c@textcitemaxnames=\count429
+\c@biburlbigbreakpenalty=\count430
+\c@biburlbreakpenalty=\count431
+\c@biburlnumpenalty=\count432
+\c@biburlucpenalty=\count433
+\c@biburllcpenalty=\count434
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count434
+\c@smartand=\count435
 )
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
@@ -538,17 +545,17 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count435
-\c@bbx:relatedtotal=\count436
+\c@bbx:relatedcount=\count436
+\c@bbx:relatedtotal=\count437
 )))
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
 File: numeric-comp.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count437
-\c@cbx@tempcntb=\count438
-\c@cbx@tempcntc=\count439
-\c@cbx@tempcntd=\count440
+\c@cbx@tempcnta=\count438
+\c@cbx@tempcntb=\count439
+\c@cbx@tempcntc=\count440
+\c@cbx@tempcntd=\count441
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -572,7 +579,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2025-12-24 L3 programming layer (loader) 
  (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count441
+\l__color_backend_stack_int=\count442
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2025-12-24 L3 programming layer (loader) 
@@ -584,13 +591,13 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 )) (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count442
-\csq@gtype=\count443
-\csq@glevel=\count444
-\csq@qlevel=\count445
-\csq@maxlvl=\count446
-\csq@tshold=\count447
-\csq@ltx@everypar=\toks33
+\csq@reset=\count443
+\csq@gtype=\count444
+\csq@glevel=\count445
+\csq@qlevel=\count446
+\csq@maxlvl=\count447
+\csq@tshold=\count448
+\csq@ltx@everypar=\toks35
  (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
@@ -613,13 +620,13 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count448
+\c@section@level=\count449
 ) (C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen266
-\Hy@linkcounter=\count449
-\Hy@pagecounter=\count450
+\Hy@linkcounter=\count450
+\Hy@pagecounter=\count451
  (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -627,7 +634,7 @@ Now handling font encoding PD1 ...
 ) (C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count451
+\Hy@SavedSpaceFactor=\count452
  (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -641,7 +648,7 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count452
+\c@Hy@tempcnt=\count453
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen267
  (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
@@ -649,7 +656,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count453
+\Fld@menulength=\count454
 \Field@Width=\dimen268
 \Fld@charsize=\dimen269
 Package hyperref Info: Hyper figures OFF on input line 6078.
@@ -659,15 +666,15 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring ON on input line 6096.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count454
-\c@Item=\count455
-\c@Hfootnote=\count456
+\Hy@abspage=\count455
+\c@Item=\count456
+\c@Hfootnote=\count457
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count457
-\c@bookmark@seq@number=\count458
+\Fld@listcount=\count458
+\c@bookmark@seq@number=\count459
  (C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
  (C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -687,7 +694,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'swedish'.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 36.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 37.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (main.aux
@@ -696,24 +703,24 @@ Package babel Info: 'swedish' activates 'swedish' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -752,17 +759,17 @@ LaTeX Font Info:    ... okay on input line 36.
 \big@size=\dimen270
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count459
+\scratchcounter=\count460
 \scratchdimen=\dimen271
-\scratchbox=\box64
-\nofMPsegments=\count460
-\nofMParguments=\count461
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count462
+\scratchbox=\box66
+\nofMPsegments=\count461
+\nofMParguments=\count462
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count463
 \MPscratchDim=\dimen272
-\MPnumerator=\count463
-\makeMPintoPDFobject=\count464
-\everyMPtoPDFconversion=\toks35
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
+\everyMPtoPDFconversion=\toks37
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -888,9 +895,9 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'abir2023ai_social_engineering'.
 
 )
-Package biblatex Info: Reference section=0 on input line 36.
-Package biblatex Info: Reference segment=0 on input line 36.
-Package hyperref Info: Link coloring ON on input line 36.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
+Package hyperref Info: Link coloring ON on input line 37.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -927,25 +934,25 @@ Package hyperref Info: Link coloring ON on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<ÅA logo.jpg, id=114, 79.8255pt x 84.4245pt>
-File: ÅA logo.jpg Graphic file (type jpg)
-<use ÅA logo.jpg>
-Package pdftex.def Info: ÅA logo.jpg  used on input line 47.
+<Bilder/ÅA logo.jpg, id=114, 79.8255pt x 84.4245pt>
+File: Bilder/ÅA logo.jpg Graphic file (type jpg)
+<use Bilder/ÅA logo.jpg>
+Package pdftex.def Info: Bilder/ÅA logo.jpg  used on input line 48.
 (pdftex.def)             Requested size: 71.13188pt x 75.23416pt.
-<ÅA signum.jpg, id=115, 255.95625pt x 230.8625pt>
-File: ÅA signum.jpg Graphic file (type jpg)
-<use ÅA signum.jpg>
-Package pdftex.def Info: ÅA signum.jpg  used on input line 58.
+<Bilder/ÅA signum.jpg, id=115, 255.95625pt x 230.8625pt>
+File: Bilder/ÅA signum.jpg Graphic file (type jpg)
+<use Bilder/ÅA signum.jpg>
+Package pdftex.def Info: Bilder/ÅA signum.jpg  used on input line 59.
 (pdftex.def)             Requested size: 184.94449pt x 184.94386pt.
  [1
 
 
 
-{C:/Users/Max/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./ÅA logo.jpg> <./ÅA signum.jpg>]
+{C:/Users/Max/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./Bilder/ÅA logo.jpg> <./Bilder/ÅA signum.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.89 \tableofcontents
+l.91 \tableofcontents
                       [1
 
 
@@ -1016,33 +1023,57 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has b
 l.12 
       [3
 
-] [4] [5] [6] [7]) (Kapitel/Social engineering i praktiken.tex [8]
+] [4]
+<Bilder/SE.png, id=223, 511.9125pt x 363.60844pt>
+File: Bilder/SE.png Graphic file (type png)
+<use Bilder/SE.png>
+Package pdftex.def Info: Bilder/SE.png  used on input line 35.
+(pdftex.def)             Requested size: 426.79135pt x 303.14868pt.
+ [5]
+<Bilder/Social Engineering Attacks_ A Survey.jpg, id=235, 432.04892pt x 413.19588pt>
+File: Bilder/Social Engineering Attacks_ A Survey.jpg Graphic file (type jpg)
+<use Bilder/Social Engineering Attacks_ A Survey.jpg>
+Package pdftex.def Info: Bilder/Social Engineering Attacks_ A Survey.jpg  used on input line 49.
+(pdftex.def)             Requested size: 426.79135pt x 408.18251pt.
+ [6 <./Bilder/SE.png>] [7 <./Bilder/Social Engineering Attacks_ A Survey.jpg>]
+<Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg, id=265, 2942.995pt x 1039.885pt>
+File: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg Graphic file (type jpg)
+<use Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg>
+Package pdftex.def Info: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg  used on input line 70.
+(pdftex.def)             Requested size: 426.79135pt x 150.80325pt.
+ [8 <./Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg>] [9]) (Kapitel/Social engineering i praktiken.tex [10]
 Kapitel 3.
-[9
+<Bilder/SE3.png, id=305, 549.55313pt x 353.06906pt>
+File: Bilder/SE3.png Graphic file (type png)
+<use Bilder/SE3.png>
+Package pdftex.def Info: Bilder/SE3.png  used on input line 12.
+(pdftex.def)             Requested size: 426.79135pt x 274.20752pt.
+[11
 
-]
-Overfull \hbox (2.57603pt too wide) in paragraph at lines 16--17
-\T1/ptm/m/n/12 ci-al engineering-attack d�r AI an-v�n-des f�r att ge-nom-f�-ra ett avan-ce-rat deepfake-bedr�geri
- []
-
-[10] [11]) (Kapitel/Tekniska motåtgärder.tex [12]
+] [12 <./Bilder/SE3.png>] [13] [14]
+<Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg, id=351, 3222.0375pt x 791.95876pt>
+File: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg Graphic file (type jpg)
+<use Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg>
+Package pdftex.def Info: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg  used on input line 49.
+(pdftex.def)             Requested size: 426.79135pt x 104.90382pt.
+) (Kapitel/Tekniska motåtgärder.tex [15 <./Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg>]
 Kapitel 4.
 
 Overfull \hbox (27.23592pt too wide) in paragraph at lines 4--4
 []\T1/ptm/b/n/17.28 Identifiering och de-tek-tion av so-ci-al engineering-attacker 
  []
 
-[13
+[16
 
-] [14] [15]) [16] (Kapitel/Diskussion.tex [17]
+] [17] [18]) [19] (Kapitel/Diskussion.tex [20]
 Kapitel 5.
-) (Kapitel/Slutsats.tex [18
+) (Kapitel/Slutsats.tex [21
 
 ]
 Kapitel 6.
-) (Kapitel/Källförteckning.tex [19
+) (Kapitel/Källförteckning.tex [22
 
-] [20
+] [23
 
 
 ]
@@ -1050,29 +1081,29 @@ Overfull \hbox (22.09113pt too wide) in paragraph at lines 6--6
 []\T1/ptm/m/n/12 Kaouthar Che-tioui m.fl. ^^Q  Over-vi-ew of So-ci-al Engi-ne-e-ring At-tacks on So-ci-al Networks^^Q.
  []
 
-[21]) [22] (main.aux)
+[24]) [25] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C164BB7E4B6FBEC7AA3C30D5DBDF6A17;5707.
+(rerunfilecheck)             Checksum: 2F77F4052F42DEE198AF1B24BCA9F9AA;5707.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29161 strings out of 467871
- 555523 string characters out of 5428449
- 1403548 words of memory out of 5000000
- 57516 multiletter control sequences out of 15000+600000
+ 29307 strings out of 467871
+ 560619 string characters out of 5428449
+ 1405535 words of memory out of 5000000
+ 57650 multiletter control sequences out of 15000+600000
  668037 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,107p,1309b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1309b,1985s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Max\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (26 pages, 240866 bytes).
+Output written on main.pdf (29 pages, 1185595 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 603 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,36 +1,36 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[147] biber-MSWIN64:342> INFO - === 
-[202] Biber.pm:421> INFO - Reading 'main.bcf'
-[322] Biber.pm:999> INFO - Using all citekeys in bib section 0
-[335] Biber.pm:4487> INFO - Processing section 0
-[349] Biber.pm:4678> INFO - Looking for bibtex file 'Kapitel/referenser.bib' for section 0
-[400] bibtex.pm:1713> INFO - LaTeX decoding ...
-[426] bibtex.pm:1519> INFO - Found BibTeX data source 'Kapitel/referenser.bib'
-[573] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[573] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[573] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'sv-SE'
-[615] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[626] bbl.pm:779> INFO - Output to main.bbl
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'cybersakerhet_kommuner'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'algarni2024comprehensive_taxonomy'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'springer_social_engineering_ontology'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'aldawood2019taxonomy'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'enisa2018cybersecurity_culture'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'washo2021interdisciplinary'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'zhang2024digital_deception'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'heartfield_loukas_se'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'almohri2024soar'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'albladi2019training_awareness'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'krombholz2015overview'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'mouton_se_systematic'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'psychology_social_engineering'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'algarni2019se_survey'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'fire2021se_social_networks'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'albladi2018defense_mechanisms'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'basnet2023anti_phishing'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'siem_comprehensive_study_2022'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'fiia2016election_hacking'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'abir2023ai_social_engineering'
-[638] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'se_threat_defense_survey'
-[638] Biber.pm:134> INFO - WARNINGS: 21
+[85] biber-MSWIN64:342> INFO - === 
+[119] Biber.pm:421> INFO - Reading 'main.bcf'
+[204] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[216] Biber.pm:4487> INFO - Processing section 0
+[225] Biber.pm:4678> INFO - Looking for bibtex file 'Kapitel/referenser.bib' for section 0
+[290] bibtex.pm:1713> INFO - LaTeX decoding ...
+[323] bibtex.pm:1519> INFO - Found BibTeX data source 'Kapitel/referenser.bib'
+[417] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[417] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[417] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'sv-SE'
+[431] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[441] bbl.pm:779> INFO - Output to main.bbl
+[449] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'albladi2019training_awareness'
+[449] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'enisa2018cybersecurity_culture'
+[449] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'algarni2024comprehensive_taxonomy'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'krombholz2015overview'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'psychology_social_engineering'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'heartfield_loukas_se'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'almohri2024soar'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'basnet2023anti_phishing'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'fiia2016election_hacking'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'washo2021interdisciplinary'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'fire2021se_social_networks'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'mouton_se_systematic'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'zhang2024digital_deception'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'albladi2018defense_mechanisms'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'algarni2019se_survey'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'se_threat_defense_survey'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'aldawood2019taxonomy'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'springer_social_engineering_ontology'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'siem_comprehensive_study_2022'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'cybersakerhet_kommuner'
+[450] Biber.pm:132> WARN - Overwriting field 'year' with year value from field 'date' for entry 'abir2023ai_social_engineering'
+[450] Biber.pm:134> INFO - WARNINGS: 21
