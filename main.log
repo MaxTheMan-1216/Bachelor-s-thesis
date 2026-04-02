@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 14:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,23 +784,8 @@ Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'fiia2016election_hacking':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'fiia2016election_hacking'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'se_threat_defense_survey':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'se_threat_defense_survey'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'albladi2019training_awareness':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'albladi2019training_awareness'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'albladi2018defense_mechanisms':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'albladi2018defense_mechanisms'.
+(biblatex)                with 'cybersakerhet_kommuner':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'cybersakerhet_kommuner'.
 
 
 Package biblatex Warning: Biber reported the following issues
@@ -809,48 +794,8 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'fire2021se_social_networks':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'fire2021se_social_networks'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'abir2023ai_social_engineering':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'abir2023ai_social_engineering'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'cybersakerhet_kommuner':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'cybersakerhet_kommuner'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'krombholz2015overview':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'krombholz2015overview'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'mouton_se_systematic':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'mouton_se_systematic'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'aldawood2019taxonomy':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'aldawood2019taxonomy'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'siem_comprehensive_study_2022':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'siem_comprehensive_study_2022'.
-
-
-Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'algarni2019se_survey':
 (biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'algarni2019se_survey'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'zhang2024digital_deception':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'zhang2024digital_deception'.
 
 
 Package biblatex Warning: Biber reported the following issues
@@ -859,13 +804,18 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'washo2021interdisciplinary':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'washo2021interdisciplinary'.
+
+
+Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'enisa2018cybersecurity_culture':
 (biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'enisa2018cybersecurity_culture'.
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'almohri2024soar':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'almohri2024soar'.
+(biblatex)                with 'zhang2024digital_deception':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'zhang2024digital_deception'.
 
 
 Package biblatex Warning: Biber reported the following issues
@@ -879,13 +829,63 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'washo2021interdisciplinary':
-(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'washo2021interdisciplinary'.
+(biblatex)                with 'se_threat_defense_survey':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'se_threat_defense_survey'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'aldawood2019taxonomy':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'aldawood2019taxonomy'.
 
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'algarni2024comprehensive_taxonomy':
 (biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'algarni2024comprehensive_taxonomy'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'krombholz2015overview':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'krombholz2015overview'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'mouton_se_systematic':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'mouton_se_systematic'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'fire2021se_social_networks':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'fire2021se_social_networks'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'albladi2018defense_mechanisms':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'albladi2018defense_mechanisms'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'fiia2016election_hacking':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'fiia2016election_hacking'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'albladi2019training_awareness':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'albladi2019training_awareness'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'siem_comprehensive_study_2022':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'siem_comprehensive_study_2022'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'almohri2024soar':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'almohri2024soar'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'abir2023ai_social_engineering':
+(biblatex)                - Overwriting field 'year' with year value from field 'date' for entry 'abir2023ai_social_engineering'.
 
 )
 Package biblatex Info: Reference section=0 on input line 36.
@@ -1042,15 +1042,15 @@ Kapitel 5.
 Kapitel 6.
 ) (Kapitel/Källförteckning.tex [19
 
+] [20
+
+
 ]
 Overfull \hbox (22.09113pt too wide) in paragraph at lines 6--6
 []\T1/ptm/m/n/12 Kaouthar Che-tioui m.fl. ^^Q  Over-vi-ew of So-ci-al Engi-ne-e-ring At-tacks on So-ci-al Networks^^Q.
  []
 
-[20
-
-
-] [21] [22]) [23] (main.aux)
+[21]) [22] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1062,17 +1062,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29162 strings out of 467871
- 555502 string characters out of 5428449
- 1407511 words of memory out of 5000000
+ 29161 strings out of 467871
+ 555523 string characters out of 5428449
+ 1403548 words of memory out of 5000000
  57516 multiletter control sequences out of 15000+600000
  668037 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,107p,1308b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1309b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Max\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (27 pages, 241799 bytes).
+Output written on main.pdf (26 pages, 240866 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
  239 words of extra memory for PDF output out of 10000 (max. 10000000)
 
