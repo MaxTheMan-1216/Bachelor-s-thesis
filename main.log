@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 14:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -998,7 +998,7 @@ l.8
 
 
 ]
-Overfull \hbox (6.34326pt too wide) in paragraph at lines 13--14
+Overfull \hbox (6.34326pt too wide) in paragraph at lines 15--16
 []\T1/ptm/m/n/12 Vilka tek-nis-ka me-to-der och at-tack-ty-per an-v�nds i da-gens so-ci-al engineering-attacker? 
  []
 
@@ -1034,23 +1034,23 @@ Overfull \hbox (27.23592pt too wide) in paragraph at lines 4--4
 
 [13
 
-] [14] [15]) (Kapitel/Diskussion.tex [16]
+] [14] [15]) [16] (Kapitel/Diskussion.tex [17]
 Kapitel 5.
-) (Kapitel/Slutsats.tex [17
+) (Kapitel/Slutsats.tex [18
 
 ]
 Kapitel 6.
-) (Kapitel/Källförteckning.tex [18
+) (Kapitel/Källförteckning.tex [19
 
 ]
 Overfull \hbox (22.09113pt too wide) in paragraph at lines 6--6
 []\T1/ptm/m/n/12 Kaouthar Che-tioui m.fl. ^^Q  Over-vi-ew of So-ci-al Engi-ne-e-ring At-tacks on So-ci-al Networks^^Q.
  []
 
-[19
+[20
 
 
-] [20] [21]) [22] (main.aux)
+] [21] [22]) [23] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1062,17 +1062,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29161 strings out of 467871
- 555495 string characters out of 5428449
+ 29162 strings out of 467871
+ 555502 string characters out of 5428449
  1407511 words of memory out of 5000000
  57516 multiletter control sequences out of 15000+600000
  668037 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,107p,1299b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1308b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Max\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (26 pages, 240916 bytes).
+Output written on main.pdf (27 pages, 241799 bytes).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
+ 577 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
  239 words of extra memory for PDF output out of 10000 (max. 10000000)
 

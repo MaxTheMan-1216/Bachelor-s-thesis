@@ -23,6 +23,6 @@
 \contentsline {subsection}{\numberline {4.2.1}Användningen av maskininlärning för detektion}{15}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Begränsningar och risker med AI}{15}{subsection.4.2.2}%
 \contentsline {section}{\numberline {4.3}Autentisering och åtkomstkontroll}{16}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Diskussion}{17}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Slutsats}{18}{chapter.6}%
-\contentsline {chapter}{Källförteckning}{19}{chapter*.4}%
+\contentsline {chapter}{\numberline {5}Diskussion}{18}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Slutsats}{19}{chapter.6}%
+\contentsline {chapter}{Källförteckning}{20}{chapter*.4}%

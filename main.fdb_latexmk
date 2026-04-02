@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1774964152.52318 "main.bcf" "main.bbl" "main" 1775123770.01777 0
+["biber main"] 1774964152.52318 "main.bcf" "main.bbl" "main" 1775128905.16802 0
   "Kapitel/referenser.bib" 1774963958 10310 8345605ebe06ca205868e58a491de140 ""
-  "main.bcf" 1775123769 118842 4852d40d2398ac9e1793ca114f04882f "pdflatex"
+  "main.bcf" 1775128904 118842 4852d40d2398ac9e1793ca114f04882f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1775123767.73519 "c:/Users/Max/Kandi_VScode/main.tex" "main.pdf" "main" 1775123770.01861 0
+["pdflatex"] 1775128902.86898 "c:/Users/Max/Kandi_VScode/main.tex" "main.pdf" "main" 1775128905.16904 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136765054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136765054 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -177,18 +177,18 @@
   "C:/Users/Max/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1774963596 13323414 023d505d973dd12248319bf43d6c73cc ""
   "Kapitel/Bakgrund och Teori.tex" 1774964014 16211 bb341a0dcf8dbe50aa251bee37bbb7fe ""
   "Kapitel/Diskussion.tex" 1774964147 20 a7e29c4a0f0b7e6ca9b22c14ccd9f091 ""
-  "Kapitel/Inledning.tex" 1775121604 3648 62f6ce341f58fe2012e08416e31dbca2 ""
+  "Kapitel/Inledning.tex" 1775128902 3940 cc24fb9cfb12ae73bd297ce3e72340f1 ""
   "Kapitel/Källförteckning.tex" 1774964147 181 0 ""
   "Kapitel/Slutsats.tex" 1774964147 18 5d232f65832828acdfa2ec5026d36557 ""
   "Kapitel/Social engineering i praktiken.tex" 1775122282 11719 aba9ed4ffd44e75f8590276a19065e8f ""
-  "Kapitel/Tekniska motåtgärder.tex" 1775123767 11509 0 ""
+  "Kapitel/Tekniska motåtgärder.tex" 1775128817 11618 0 ""
   "c:/Users/Max/Kandi_VScode/main.tex" 1775121435 3933 303423240f6136e38e7b9c10386b2815 ""
-  "main.aux" 1775123769 17996 f6083d3b03c75ccf8ad972085bf55939 "pdflatex"
+  "main.aux" 1775128904 17996 419a4f1fa5b45121c4c31d590c7eae9b "pdflatex"
   "main.bbl" 1774964154 44114 419848488aaea1d5395872b2fa142fe4 "biber main"
-  "main.out" 1775123769 5707 c164bb7e4b6fbec7aa3c30d5dbdf6a17 "pdflatex"
-  "main.run.xml" 1775123769 2354 c3376829382d254c6337e5ab2fb86e5e "pdflatex"
+  "main.out" 1775128904 5707 c164bb7e4b6fbec7aa3c30d5dbdf6a17 "pdflatex"
+  "main.run.xml" 1775128904 2354 c3376829382d254c6337e5ab2fb86e5e "pdflatex"
   "main.tex" 1775121435 3933 303423240f6136e38e7b9c10386b2815 ""
-  "main.toc" 1775123769 2514 acb33114ce6284aad90f0d80d5ce10d8 "pdflatex"
+  "main.toc" 1775128904 2514 cfc7c545da283c0ae03f4fdb680ae91f "pdflatex"
   "ÅA logo.jpg" 1774963741 14265 0 ""
   "ÅA signum.jpg" 1774963744 28586 0 ""
   (generated)
