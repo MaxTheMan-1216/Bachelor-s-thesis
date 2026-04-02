@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber main"] 1775158179.58585 "main.bcf" "main.bbl" "main" 1775158246.77531 0
+["biber main"] 1775158179.58585 "main.bcf" "main.bbl" "main" 1775163449.77051 0
   "Kapitel/referenser.bib" 1774963958 10310 8345605ebe06ca205868e58a491de140 ""
-  "main.bcf" 1775158246 118454 2d00f58ccc31681e861277dee053081d "pdflatex"
+  "main.bcf" 1775163449 118454 2d00f58ccc31681e861277dee053081d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1775158244.7571 "c:/Users/Max/Kandi_VScode/main.tex" "main.pdf" "main" 1775158246.7761 0
-  "Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks and Existing Countermeasures.jpg" 1775155096 249306 5bdf0fd74b3abf27e3df0bb8da9652d3 ""
+["pdflatex"] 1775163447.5495 "c:/Users/Max/Kandi_VScode/main.tex" "main.pdf" "main" 1775163449.77106 0
   "Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg" 1775154710 334625 b9d81297ba2c84e9db984305f5b0b7b7 ""
+  "Bilder/A Study on the Psychology.png" 1775160467 222759 eba6ad49148a0875be39efcb26a89169 ""
   "Bilder/SE.png" 1771706137 98248 13bec7aaa7bbb4aa24e9f29beb0348c4 ""
-  "Bilder/SE3.png" 1771706279 233041 e5b51ebc0f3e58a081db76cc8d8fa26a ""
+  "Bilder/SE33.png" 1775163419 155467 2426d1d15bc0e198faaaac07f0bbf439 ""
   "Bilder/Social Engineering Attacks_ A Survey.jpg" 1771704417 97495 f05ae7a191ddd9bbd02ecef1f68e2bf8 ""
   "Bilder/ÅA logo.jpg" 1774963741 14265 0 ""
   "Bilder/ÅA signum.jpg" 1774963744 28586 0 ""
@@ -188,15 +188,15 @@
   "Kapitel/Inledning.tex" 1775128902 3940 cc24fb9cfb12ae73bd297ce3e72340f1 ""
   "Kapitel/Källförteckning.tex" 1774964147 181 0 ""
   "Kapitel/Slutsats.tex" 1774964147 18 5d232f65832828acdfa2ec5026d36557 ""
-  "Kapitel/Social engineering i praktiken.tex" 1775158242 12310 fdaf4e83c883848e788f158ec9a80863 ""
+  "Kapitel/Social engineering i praktiken.tex" 1775163447 12241 69c288a58a6a34bbf07def49ca218343 ""
   "Kapitel/Tekniska motåtgärder.tex" 1775128817 11618 0 ""
   "c:/Users/Max/Kandi_VScode/main.tex" 1775157978 4050 0bbc48060f8c1a295f3c57b7214055fe ""
-  "main.aux" 1775158246 20383 19ba153eeb9df795b1fdb3d47c80f431 "pdflatex"
+  "main.aux" 1775163449 20383 19ba153eeb9df795b1fdb3d47c80f431 "pdflatex"
   "main.bbl" 1775158181 44115 d6a793d7364deeb114780c06ba3259f5 "biber main"
-  "main.out" 1775158246 5707 2f77f4052f42dee198af1b24bca9f9aa "pdflatex"
-  "main.run.xml" 1775158246 2354 c3376829382d254c6337e5ab2fb86e5e "pdflatex"
+  "main.out" 1775163449 5707 2f77f4052f42dee198af1b24bca9f9aa "pdflatex"
+  "main.run.xml" 1775163449 2354 c3376829382d254c6337e5ab2fb86e5e "pdflatex"
   "main.tex" 1775157978 4050 0bbc48060f8c1a295f3c57b7214055fe ""
-  "main.toc" 1775158246 2516 1e3469f1545e0980fb210ec79076262d "pdflatex"
+  "main.toc" 1775163449 2516 1e3469f1545e0980fb210ec79076262d "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
