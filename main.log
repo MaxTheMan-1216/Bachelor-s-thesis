@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  31 MAR 2026 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 12:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -935,7 +935,7 @@ Package pdftex.def Info: Ã…A logo.jpg  used on input line 47.
 <Ã…A signum.jpg, id=115, 255.95625pt x 230.8625pt>
 File: Ã…A signum.jpg Graphic file (type jpg)
 <use Ã…A signum.jpg>
-Package pdftex.def Info: Ã…A signum.jpg  used on input line 59.
+Package pdftex.def Info: Ã…A signum.jpg  used on input line 58.
 (pdftex.def)             Requested size: 184.94449pt x 184.94386pt.
  [1
 
@@ -985,8 +985,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
  [3] (Kapitel/Inledning.tex
 Kapitel 1.
 
-Overfull \hbox (7.25652pt too wide) in paragraph at lines 2--3
-\T1/ptm/m/n/12 Traditionellt har cy-ber-sä-ker-het främst fo-ku-se-rat på tek-nis-ka skydds-me-ka-nis-mer, som brand-
+Overfull \hbox (4.7364pt too wide) in paragraph at lines 2--3
+\T1/ptm/m/n/12 Traditionellt har cy-ber-sä-ker-het främst fo-ku-se-rat på tek-nis-ka skydds-me-ka-nis-mer som brand-
  []
 
 
@@ -1068,9 +1068,9 @@ Here is how much of TeX's memory you used:
  57516 multiletter control sequences out of 15000+600000
  668037 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,107p,1297b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1299b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Max\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (26 pages, 240949 bytes).
+Output written on main.pdf (26 pages, 240916 bytes).
 PDF statistics:
  573 PDF objects out of 1000 (max. 8388607)
  82 named destinations out of 1000 (max. 500000)
