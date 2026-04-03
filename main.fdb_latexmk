@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber main"] 1775158179.58585 "main.bcf" "main.bbl" "main" 1775163449.77051 0
+["biber main"] 1775158179.58585 "main.bcf" "main.bbl" "main" 1775242053.59615 0
   "Kapitel/referenser.bib" 1774963958 10310 8345605ebe06ca205868e58a491de140 ""
-  "main.bcf" 1775163449 118454 2d00f58ccc31681e861277dee053081d "pdflatex"
+  "main.bcf" 1775242053 118454 2d00f58ccc31681e861277dee053081d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1775163447.5495 "c:/Users/Max/Kandi_VScode/main.tex" "main.pdf" "main" 1775163449.77106 0
+["pdflatex"] 1775242051.03777 "c:/Users/Max/Kandi_VScode/main.tex" "main.pdf" "main" 1775242053.59678 0
   "Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg" 1775154710 334625 b9d81297ba2c84e9db984305f5b0b7b7 ""
-  "Bilder/A Study on the Psychology.png" 1775160467 222759 eba6ad49148a0875be39efcb26a89169 ""
+  "Bilder/A Study on the Psychology.png" 1775242026 244293 743a985909196b4e2faac22c29698b6c ""
   "Bilder/SE.png" 1771706137 98248 13bec7aaa7bbb4aa24e9f29beb0348c4 ""
-  "Bilder/SE33.png" 1775163419 155467 2426d1d15bc0e198faaaac07f0bbf439 ""
+  "Bilder/SE33.png" 1775241786 153988 4a119b07401e60080de979943e529b9d ""
   "Bilder/Social Engineering Attacks_ A Survey.jpg" 1771704417 97495 f05ae7a191ddd9bbd02ecef1f68e2bf8 ""
   "Bilder/ÅA logo.jpg" 1774963741 14265 0 ""
   "Bilder/ÅA signum.jpg" 1774963744 28586 0 ""
@@ -183,20 +183,20 @@
   "C:/Users/Max/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1774962512 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Max/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1774964152 24152 c8794e10868d2202475dc0dc34d347d2 ""
   "C:/Users/Max/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1774963596 13323414 023d505d973dd12248319bf43d6c73cc ""
-  "Kapitel/Bakgrund och Teori.tex" 1775158177 17011 12fb9621f9d30fde1eb7b179bb8a8d89 ""
+  "Kapitel/Bakgrund och Teori.tex" 1775241803 17011 12fb9621f9d30fde1eb7b179bb8a8d89 ""
   "Kapitel/Diskussion.tex" 1774964147 20 a7e29c4a0f0b7e6ca9b22c14ccd9f091 ""
   "Kapitel/Inledning.tex" 1775128902 3940 cc24fb9cfb12ae73bd297ce3e72340f1 ""
   "Kapitel/Källförteckning.tex" 1774964147 181 0 ""
   "Kapitel/Slutsats.tex" 1774964147 18 5d232f65832828acdfa2ec5026d36557 ""
   "Kapitel/Social engineering i praktiken.tex" 1775163447 12241 69c288a58a6a34bbf07def49ca218343 ""
   "Kapitel/Tekniska motåtgärder.tex" 1775128817 11618 0 ""
-  "c:/Users/Max/Kandi_VScode/main.tex" 1775157978 4050 0bbc48060f8c1a295f3c57b7214055fe ""
-  "main.aux" 1775163449 20383 19ba153eeb9df795b1fdb3d47c80f431 "pdflatex"
+  "c:/Users/Max/Kandi_VScode/main.tex" 1775234681 4040 1430ac3174500838ef7f252d2f5dc247 ""
+  "main.aux" 1775242053 20383 19ba153eeb9df795b1fdb3d47c80f431 "pdflatex"
   "main.bbl" 1775158181 44115 d6a793d7364deeb114780c06ba3259f5 "biber main"
-  "main.out" 1775163449 5707 2f77f4052f42dee198af1b24bca9f9aa "pdflatex"
-  "main.run.xml" 1775163449 2354 c3376829382d254c6337e5ab2fb86e5e "pdflatex"
-  "main.tex" 1775157978 4050 0bbc48060f8c1a295f3c57b7214055fe ""
-  "main.toc" 1775163449 2516 1e3469f1545e0980fb210ec79076262d "pdflatex"
+  "main.out" 1775242053 5707 2f77f4052f42dee198af1b24bca9f9aa "pdflatex"
+  "main.run.xml" 1775242053 2354 c3376829382d254c6337e5ab2fb86e5e "pdflatex"
+  "main.tex" 1775234681 4040 1430ac3174500838ef7f252d2f5dc247 ""
+  "main.toc" 1775242053 2516 1e3469f1545e0980fb210ec79076262d "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
