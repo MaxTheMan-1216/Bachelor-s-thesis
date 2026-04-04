@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{cybersakerhet_kommuner}{thesis}{}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{cybersakerhet_kommuner}{thesis}{}
       \name{author}{1}{}{%
         {{hash=92fd07b77c91de413afb4ad7741dd7f6}{%
            family={Hellund},
@@ -32,12 +32,10 @@
       }
       \strng{namehash}{92fd07b77c91de413afb4ad7741dd7f6}
       \strng{fullhash}{92fd07b77c91de413afb4ad7741dd7f6}
-      \strng{fullhashraw}{92fd07b77c91de413afb4ad7741dd7f6}
       \strng{bibnamehash}{92fd07b77c91de413afb4ad7741dd7f6}
       \strng{authorbibnamehash}{92fd07b77c91de413afb4ad7741dd7f6}
       \strng{authornamehash}{92fd07b77c91de413afb4ad7741dd7f6}
       \strng{authorfullhash}{92fd07b77c91de413afb4ad7741dd7f6}
-      \strng{authorfullhashraw}{92fd07b77c91de413afb4ad7741dd7f6}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -56,7 +54,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'cybersakerhet_kommuner'}
     \endentry
-    \entry{heartfield_loukas_se}{article}{}{}
+    \entry{heartfield_loukas_se}{article}{}
       \name{author}{1}{}{%
         {{hash=65544b0f9776039847caede7b433ab41}{%
            family={Bhusal},
@@ -66,12 +64,10 @@
       }
       \strng{namehash}{65544b0f9776039847caede7b433ab41}
       \strng{fullhash}{65544b0f9776039847caede7b433ab41}
-      \strng{fullhashraw}{65544b0f9776039847caede7b433ab41}
       \strng{bibnamehash}{65544b0f9776039847caede7b433ab41}
       \strng{authorbibnamehash}{65544b0f9776039847caede7b433ab41}
       \strng{authornamehash}{65544b0f9776039847caede7b433ab41}
       \strng{authorfullhash}{65544b0f9776039847caede7b433ab41}
-      \strng{authorfullhashraw}{65544b0f9776039847caede7b433ab41}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -97,7 +93,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'heartfield_loukas_se'}
     \endentry
-    \entry{algarni2019se_survey}{article}{}{}
+    \entry{algarni2019se_survey}{article}{}
       \name{author}{2}{}{%
         {{hash=d65feabd42d59fb4094ea3bcc836e3cb}{%
            family={Salahdine},
@@ -112,12 +108,10 @@
       }
       \strng{namehash}{38f495589e95a7ad45e3484a40ebb086}
       \strng{fullhash}{38f495589e95a7ad45e3484a40ebb086}
-      \strng{fullhashraw}{38f495589e95a7ad45e3484a40ebb086}
       \strng{bibnamehash}{38f495589e95a7ad45e3484a40ebb086}
       \strng{authorbibnamehash}{38f495589e95a7ad45e3484a40ebb086}
       \strng{authornamehash}{38f495589e95a7ad45e3484a40ebb086}
       \strng{authorfullhash}{38f495589e95a7ad45e3484a40ebb086}
-      \strng{authorfullhashraw}{38f495589e95a7ad45e3484a40ebb086}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -141,7 +135,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'algarni2019se_survey'}
     \endentry
-    \entry{psychology_social_engineering}{article}{}{}
+    \entry{psychology_social_engineering}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -153,12 +147,10 @@
       }
       \strng{namehash}{6d4251c70092b22de4ea6507c15aaf4b}
       \strng{fullhash}{6d4251c70092b22de4ea6507c15aaf4b}
-      \strng{fullhashraw}{6d4251c70092b22de4ea6507c15aaf4b}
       \strng{bibnamehash}{6d4251c70092b22de4ea6507c15aaf4b}
       \strng{authorbibnamehash}{6d4251c70092b22de4ea6507c15aaf4b}
       \strng{authornamehash}{6d4251c70092b22de4ea6507c15aaf4b}
       \strng{authorfullhash}{6d4251c70092b22de4ea6507c15aaf4b}
-      \strng{authorfullhashraw}{6d4251c70092b22de4ea6507c15aaf4b}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -182,7 +174,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'psychology_social_engineering'}
     \endentry
-    \entry{washo2021interdisciplinary}{article}{}{}
+    \entry{washo2021interdisciplinary}{article}{}
       \name{author}{1}{}{%
         {{hash=3291480865c991d39a4560b28ad8beab}{%
            family={Washo},
@@ -192,12 +184,10 @@
       }
       \strng{namehash}{3291480865c991d39a4560b28ad8beab}
       \strng{fullhash}{3291480865c991d39a4560b28ad8beab}
-      \strng{fullhashraw}{3291480865c991d39a4560b28ad8beab}
       \strng{bibnamehash}{3291480865c991d39a4560b28ad8beab}
       \strng{authorbibnamehash}{3291480865c991d39a4560b28ad8beab}
       \strng{authornamehash}{3291480865c991d39a4560b28ad8beab}
       \strng{authorfullhash}{3291480865c991d39a4560b28ad8beab}
-      \strng{authorfullhashraw}{3291480865c991d39a4560b28ad8beab}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -220,7 +210,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'washo2021interdisciplinary'}
     \endentry
-    \entry{enisa2018cybersecurity_culture}{report}{}{}
+    \entry{enisa2018cybersecurity_culture}{report}{}
       \name{author}{1}{}{%
         {{hash=af81f954bc0bc5283c8dd54fb0d7163b}{%
            family={{The European Union Agency for Network and Information Security (ENISA)}},
@@ -231,12 +221,10 @@
       }
       \strng{namehash}{af81f954bc0bc5283c8dd54fb0d7163b}
       \strng{fullhash}{af81f954bc0bc5283c8dd54fb0d7163b}
-      \strng{fullhashraw}{af81f954bc0bc5283c8dd54fb0d7163b}
       \strng{bibnamehash}{af81f954bc0bc5283c8dd54fb0d7163b}
       \strng{authorbibnamehash}{af81f954bc0bc5283c8dd54fb0d7163b}
       \strng{authornamehash}{af81f954bc0bc5283c8dd54fb0d7163b}
       \strng{authorfullhash}{af81f954bc0bc5283c8dd54fb0d7163b}
-      \strng{authorfullhashraw}{af81f954bc0bc5283c8dd54fb0d7163b}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -257,7 +245,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'enisa2018cybersecurity_culture'}
     \endentry
-    \entry{zhang2024digital_deception}{article}{}{}
+    \entry{zhang2024digital_deception}{article}{}
       \name{author}{2}{}{%
         {{hash=45409d41cb8a9ee7519ddeda0939e0b9}{%
            family={Schmitt},
@@ -272,12 +260,10 @@
       }
       \strng{namehash}{a9ef1e7869c43cb2cbdcf333811af56f}
       \strng{fullhash}{a9ef1e7869c43cb2cbdcf333811af56f}
-      \strng{fullhashraw}{a9ef1e7869c43cb2cbdcf333811af56f}
       \strng{bibnamehash}{a9ef1e7869c43cb2cbdcf333811af56f}
       \strng{authorbibnamehash}{a9ef1e7869c43cb2cbdcf333811af56f}
       \strng{authornamehash}{a9ef1e7869c43cb2cbdcf333811af56f}
       \strng{authorfullhash}{a9ef1e7869c43cb2cbdcf333811af56f}
-      \strng{authorfullhashraw}{a9ef1e7869c43cb2cbdcf333811af56f}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -301,7 +287,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'zhang2024digital_deception'}
     \endentry
-    \entry{gururaj2024social_engineering}{book}{}{}
+    \entry{gururaj2024social_engineering}{book}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -316,12 +302,10 @@
       }
       \strng{namehash}{ae99acfdbc3ecc87836e98ecaca30b1a}
       \strng{fullhash}{ae99acfdbc3ecc87836e98ecaca30b1a}
-      \strng{fullhashraw}{ae99acfdbc3ecc87836e98ecaca30b1a}
       \strng{bibnamehash}{ae99acfdbc3ecc87836e98ecaca30b1a}
       \strng{authorbibnamehash}{ae99acfdbc3ecc87836e98ecaca30b1a}
       \strng{authornamehash}{ae99acfdbc3ecc87836e98ecaca30b1a}
       \strng{authorfullhash}{ae99acfdbc3ecc87836e98ecaca30b1a}
-      \strng{authorfullhashraw}{ae99acfdbc3ecc87836e98ecaca30b1a}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -338,7 +322,7 @@
       \verb https://www.taylorfrancis.com/books/edit/10.1201/9781003406716/social-engineering-cybersecurity-gururaj-janhavi-ambika
       \endverb
     \endentry
-    \entry{springer_social_engineering_ontology}{article}{}{}
+    \entry{springer_social_engineering_ontology}{article}{}
       \name{author}{4}{}{%
         {{hash=5f4df73b85cfa510e7826cb527d332ef}{%
            family={Wang},
@@ -363,12 +347,10 @@
       }
       \strng{namehash}{90ade4a6eff1b13331efa141119e9980}
       \strng{fullhash}{a137a433b4c28cdf12a2ea8a828cc18a}
-      \strng{fullhashraw}{a137a433b4c28cdf12a2ea8a828cc18a}
       \strng{bibnamehash}{90ade4a6eff1b13331efa141119e9980}
       \strng{authorbibnamehash}{90ade4a6eff1b13331efa141119e9980}
       \strng{authornamehash}{90ade4a6eff1b13331efa141119e9980}
       \strng{authorfullhash}{a137a433b4c28cdf12a2ea8a828cc18a}
-      \strng{authorfullhashraw}{a137a433b4c28cdf12a2ea8a828cc18a}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
@@ -393,7 +375,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'springer_social_engineering_ontology'}
     \endentry
-    \entry{basnet2023anti_phishing}{article}{}{}
+    \entry{basnet2023anti_phishing}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -405,12 +387,10 @@
       }
       \strng{namehash}{04c88e31f71a841bf43cf11837a69bd7}
       \strng{fullhash}{04c88e31f71a841bf43cf11837a69bd7}
-      \strng{fullhashraw}{04c88e31f71a841bf43cf11837a69bd7}
       \strng{bibnamehash}{04c88e31f71a841bf43cf11837a69bd7}
       \strng{authorbibnamehash}{04c88e31f71a841bf43cf11837a69bd7}
       \strng{authornamehash}{04c88e31f71a841bf43cf11837a69bd7}
       \strng{authorfullhash}{04c88e31f71a841bf43cf11837a69bd7}
-      \strng{authorfullhashraw}{04c88e31f71a841bf43cf11837a69bd7}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -433,7 +413,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'basnet2023anti_phishing'}
     \endentry
-    \entry{podgorecki1998social}{book}{}{}
+    \entry{podgorecki1998social}{book}{}
       \name{author}{3}{}{%
         {{hash=0db4f909f918e3b8631430b080a14764}{%
            family={Podgórecki},
@@ -459,12 +439,10 @@
       }
       \strng{namehash}{27b78e598f8b9ae81ff4138845c936bb}
       \strng{fullhash}{27b78e598f8b9ae81ff4138845c936bb}
-      \strng{fullhashraw}{27b78e598f8b9ae81ff4138845c936bb}
       \strng{bibnamehash}{27b78e598f8b9ae81ff4138845c936bb}
       \strng{authorbibnamehash}{27b78e598f8b9ae81ff4138845c936bb}
       \strng{authornamehash}{27b78e598f8b9ae81ff4138845c936bb}
       \strng{authorfullhash}{27b78e598f8b9ae81ff4138845c936bb}
-      \strng{authorfullhashraw}{27b78e598f8b9ae81ff4138845c936bb}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -473,7 +451,7 @@
       \field{title}{Social Engineering}
       \field{year}{1996}
     \endentry
-    \entry{se_threat_defense_survey}{article}{}{}
+    \entry{se_threat_defense_survey}{article}{}
       \name{author}{1}{}{%
         {{hash=5877c62b76c096003b98690c92bdb331}{%
            family={Abbas},
@@ -483,12 +461,10 @@
       }
       \strng{namehash}{5877c62b76c096003b98690c92bdb331}
       \strng{fullhash}{5877c62b76c096003b98690c92bdb331}
-      \strng{fullhashraw}{5877c62b76c096003b98690c92bdb331}
       \strng{bibnamehash}{5877c62b76c096003b98690c92bdb331}
       \strng{authorbibnamehash}{5877c62b76c096003b98690c92bdb331}
       \strng{authornamehash}{5877c62b76c096003b98690c92bdb331}
       \strng{authorfullhash}{5877c62b76c096003b98690c92bdb331}
-      \strng{authorfullhashraw}{5877c62b76c096003b98690c92bdb331}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -514,7 +490,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'se_threat_defense_survey'}
     \endentry
-    \entry{aldawood2019taxonomy}{article}{}{}
+    \entry{aldawood2019taxonomy}{article}{}
       \name{author}{2}{}{%
         {{hash=54ea03ce713ad5fe62da57c2109422be}{%
            family={Maraj},
@@ -529,12 +505,10 @@
       }
       \strng{namehash}{92618cf6d86bcbb6ebe126c1ec8838d5}
       \strng{fullhash}{92618cf6d86bcbb6ebe126c1ec8838d5}
-      \strng{fullhashraw}{92618cf6d86bcbb6ebe126c1ec8838d5}
       \strng{bibnamehash}{92618cf6d86bcbb6ebe126c1ec8838d5}
       \strng{authorbibnamehash}{92618cf6d86bcbb6ebe126c1ec8838d5}
       \strng{authornamehash}{92618cf6d86bcbb6ebe126c1ec8838d5}
       \strng{authorfullhash}{92618cf6d86bcbb6ebe126c1ec8838d5}
-      \strng{authorfullhashraw}{92618cf6d86bcbb6ebe126c1ec8838d5}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -558,7 +532,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'aldawood2019taxonomy'}
     \endentry
-    \entry{algarni2024comprehensive_taxonomy}{article}{}{}
+    \entry{algarni2024comprehensive_taxonomy}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -570,12 +544,10 @@
       }
       \strng{namehash}{d108eaffa179eeac618678dd4b5aa332}
       \strng{fullhash}{d108eaffa179eeac618678dd4b5aa332}
-      \strng{fullhashraw}{d108eaffa179eeac618678dd4b5aa332}
       \strng{bibnamehash}{d108eaffa179eeac618678dd4b5aa332}
       \strng{authorbibnamehash}{d108eaffa179eeac618678dd4b5aa332}
       \strng{authornamehash}{d108eaffa179eeac618678dd4b5aa332}
       \strng{authorfullhash}{d108eaffa179eeac618678dd4b5aa332}
-      \strng{authorfullhashraw}{d108eaffa179eeac618678dd4b5aa332}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -600,7 +572,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'algarni2024comprehensive_taxonomy'}
     \endentry
-    \entry{krombholz2015overview}{article}{}{}
+    \entry{krombholz2015overview}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -612,12 +584,10 @@
       }
       \strng{namehash}{7deabc4ae2823960eaff655c0a2625c2}
       \strng{fullhash}{7deabc4ae2823960eaff655c0a2625c2}
-      \strng{fullhashraw}{7deabc4ae2823960eaff655c0a2625c2}
       \strng{bibnamehash}{7deabc4ae2823960eaff655c0a2625c2}
       \strng{authorbibnamehash}{7deabc4ae2823960eaff655c0a2625c2}
       \strng{authornamehash}{7deabc4ae2823960eaff655c0a2625c2}
       \strng{authorfullhash}{7deabc4ae2823960eaff655c0a2625c2}
-      \strng{authorfullhashraw}{7deabc4ae2823960eaff655c0a2625c2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -641,7 +611,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'krombholz2015overview'}
     \endentry
-    \entry{mouton_se_systematic}{article}{}{}
+    \entry{mouton_se_systematic}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -653,12 +623,10 @@
       }
       \strng{namehash}{5f1f3edbca2097a7989827b9520b0900}
       \strng{fullhash}{5f1f3edbca2097a7989827b9520b0900}
-      \strng{fullhashraw}{5f1f3edbca2097a7989827b9520b0900}
       \strng{bibnamehash}{5f1f3edbca2097a7989827b9520b0900}
       \strng{authorbibnamehash}{5f1f3edbca2097a7989827b9520b0900}
       \strng{authornamehash}{5f1f3edbca2097a7989827b9520b0900}
       \strng{authorfullhash}{5f1f3edbca2097a7989827b9520b0900}
-      \strng{authorfullhashraw}{5f1f3edbca2097a7989827b9520b0900}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -682,7 +650,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'mouton_se_systematic'}
     \endentry
-    \entry{fire2021se_social_networks}{article}{}{}
+    \entry{fire2021se_social_networks}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -694,12 +662,10 @@
       }
       \strng{namehash}{1c151b705768011353e5e966fdfcc316}
       \strng{fullhash}{1c151b705768011353e5e966fdfcc316}
-      \strng{fullhashraw}{1c151b705768011353e5e966fdfcc316}
       \strng{bibnamehash}{1c151b705768011353e5e966fdfcc316}
       \strng{authorbibnamehash}{1c151b705768011353e5e966fdfcc316}
       \strng{authornamehash}{1c151b705768011353e5e966fdfcc316}
       \strng{authorfullhash}{1c151b705768011353e5e966fdfcc316}
-      \strng{authorfullhashraw}{1c151b705768011353e5e966fdfcc316}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -722,7 +688,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'fire2021se_social_networks'}
     \endentry
-    \entry{albladi2018defense_mechanisms}{article}{}{}
+    \entry{albladi2018defense_mechanisms}{article}{}
       \name{author}{2}{}{%
         {{hash=5d85a28882a162e17a992a7374ad7d09}{%
            family={Alharthi},
@@ -737,12 +703,10 @@
       }
       \strng{namehash}{8903e448f433cf0027138bd80ce43c50}
       \strng{fullhash}{8903e448f433cf0027138bd80ce43c50}
-      \strng{fullhashraw}{8903e448f433cf0027138bd80ce43c50}
       \strng{bibnamehash}{8903e448f433cf0027138bd80ce43c50}
       \strng{authorbibnamehash}{8903e448f433cf0027138bd80ce43c50}
       \strng{authornamehash}{8903e448f433cf0027138bd80ce43c50}
       \strng{authorfullhash}{8903e448f433cf0027138bd80ce43c50}
-      \strng{authorfullhashraw}{8903e448f433cf0027138bd80ce43c50}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -767,7 +731,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'albladi2018defense_mechanisms'}
     \endentry
-    \entry{guardian_arup_2024}{online}{}{}
+    \entry{guardian_arup_2024}{online}{}
       \name{author}{1}{}{%
         {{hash=bb37988fad9dca601e518c39c6b6dbc1}{%
            family={{The Guardian}},
@@ -775,12 +739,10 @@
       }
       \strng{namehash}{bb37988fad9dca601e518c39c6b6dbc1}
       \strng{fullhash}{bb37988fad9dca601e518c39c6b6dbc1}
-      \strng{fullhashraw}{bb37988fad9dca601e518c39c6b6dbc1}
       \strng{bibnamehash}{bb37988fad9dca601e518c39c6b6dbc1}
       \strng{authorbibnamehash}{bb37988fad9dca601e518c39c6b6dbc1}
       \strng{authornamehash}{bb37988fad9dca601e518c39c6b6dbc1}
       \strng{authorfullhash}{bb37988fad9dca601e518c39c6b6dbc1}
-      \strng{authorfullhashraw}{bb37988fad9dca601e518c39c6b6dbc1}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -798,7 +760,7 @@
       \verb https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video
       \endverb
     \endentry
-    \entry{bbc_arup_2024}{online}{}{}
+    \entry{bbc_arup_2024}{online}{}
       \name{author}{1}{}{%
         {{hash=3bcfea2f189f0839ca5746e02b910cf8}{%
            family={{BBC News}},
@@ -806,12 +768,10 @@
       }
       \strng{namehash}{3bcfea2f189f0839ca5746e02b910cf8}
       \strng{fullhash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{fullhashraw}{3bcfea2f189f0839ca5746e02b910cf8}
       \strng{bibnamehash}{3bcfea2f189f0839ca5746e02b910cf8}
       \strng{authorbibnamehash}{3bcfea2f189f0839ca5746e02b910cf8}
       \strng{authornamehash}{3bcfea2f189f0839ca5746e02b910cf8}
       \strng{authorfullhash}{3bcfea2f189f0839ca5746e02b910cf8}
-      \strng{authorfullhashraw}{3bcfea2f189f0839ca5746e02b910cf8}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -829,7 +789,7 @@
       \verb https://www.bbc.com/news/articles/c0j59vydxj9o
       \endverb
     \endentry
-    \entry{fiia2016election_hacking}{report}{}{}
+    \entry{fiia2016election_hacking}{report}{}
       \name{author}{1}{}{%
         {{hash=7797dc9c687bbb9d6e862c5edd6a336a}{%
            family={{Aaltola, Mika and Mattisen, Mariita}},
@@ -840,12 +800,10 @@
       }
       \strng{namehash}{7797dc9c687bbb9d6e862c5edd6a336a}
       \strng{fullhash}{7797dc9c687bbb9d6e862c5edd6a336a}
-      \strng{fullhashraw}{7797dc9c687bbb9d6e862c5edd6a336a}
       \strng{bibnamehash}{7797dc9c687bbb9d6e862c5edd6a336a}
       \strng{authorbibnamehash}{7797dc9c687bbb9d6e862c5edd6a336a}
       \strng{authornamehash}{7797dc9c687bbb9d6e862c5edd6a336a}
       \strng{authorfullhash}{7797dc9c687bbb9d6e862c5edd6a336a}
-      \strng{authorfullhashraw}{7797dc9c687bbb9d6e862c5edd6a336a}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -863,7 +821,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'fiia2016election_hacking'}
     \endentry
-    \entry{albladi2019training_awareness}{article}{}{}
+    \entry{albladi2019training_awareness}{article}{}
       \name{author}{2}{}{%
         {{hash=ab867538d6331f59248cc1bac701b8f6}{%
            family={Aldawood},
@@ -878,12 +836,10 @@
       }
       \strng{namehash}{150a3a2f0a0fae925e4018b04e83d25e}
       \strng{fullhash}{150a3a2f0a0fae925e4018b04e83d25e}
-      \strng{fullhashraw}{150a3a2f0a0fae925e4018b04e83d25e}
       \strng{bibnamehash}{150a3a2f0a0fae925e4018b04e83d25e}
       \strng{authorbibnamehash}{150a3a2f0a0fae925e4018b04e83d25e}
       \strng{authornamehash}{150a3a2f0a0fae925e4018b04e83d25e}
       \strng{authorfullhash}{150a3a2f0a0fae925e4018b04e83d25e}
-      \strng{authorfullhashraw}{150a3a2f0a0fae925e4018b04e83d25e}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -907,7 +863,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'albladi2019training_awareness'}
     \endentry
-    \entry{siem_comprehensive_study_2022}{article}{}{}
+    \entry{siem_comprehensive_study_2022}{article}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -919,12 +875,10 @@
       }
       \strng{namehash}{6c080ddda4d147f8396e4ac1ee1b6b40}
       \strng{fullhash}{6c080ddda4d147f8396e4ac1ee1b6b40}
-      \strng{fullhashraw}{6c080ddda4d147f8396e4ac1ee1b6b40}
       \strng{bibnamehash}{6c080ddda4d147f8396e4ac1ee1b6b40}
       \strng{authorbibnamehash}{6c080ddda4d147f8396e4ac1ee1b6b40}
       \strng{authornamehash}{6c080ddda4d147f8396e4ac1ee1b6b40}
       \strng{authorfullhash}{6c080ddda4d147f8396e4ac1ee1b6b40}
-      \strng{authorfullhashraw}{6c080ddda4d147f8396e4ac1ee1b6b40}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -949,7 +903,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'siem_comprehensive_study_2022'}
     \endentry
-    \entry{almohri2024soar}{article}{}{}
+    \entry{almohri2024soar}{article}{}
       \name{author}{2}{}{%
         {{hash=bff4485c226641fc9cbafb32301f2254}{%
            family={Waelchli},
@@ -964,14 +918,12 @@
       }
       \strng{namehash}{f52c6f727e65bf005aed2adfd15e8dd2}
       \strng{fullhash}{f52c6f727e65bf005aed2adfd15e8dd2}
-      \strng{fullhashraw}{f52c6f727e65bf005aed2adfd15e8dd2}
       \strng{bibnamehash}{f52c6f727e65bf005aed2adfd15e8dd2}
       \strng{authorbibnamehash}{f52c6f727e65bf005aed2adfd15e8dd2}
       \strng{authornamehash}{f52c6f727e65bf005aed2adfd15e8dd2}
       \strng{authorfullhash}{f52c6f727e65bf005aed2adfd15e8dd2}
-      \strng{authorfullhashraw}{f52c6f727e65bf005aed2adfd15e8dd2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{15}
@@ -992,7 +944,7 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'almohri2024soar'}
     \endentry
-    \entry{abir2023ai_social_engineering}{thesis}{}{}
+    \entry{abir2023ai_social_engineering}{thesis}{}
       \name{author}{1}{}{%
         {{hash=d28701d5d91d802283fd49aa6309b30c}{%
            family={Eriksson},
@@ -1005,12 +957,10 @@
       }
       \strng{namehash}{d28701d5d91d802283fd49aa6309b30c}
       \strng{fullhash}{d28701d5d91d802283fd49aa6309b30c}
-      \strng{fullhashraw}{d28701d5d91d802283fd49aa6309b30c}
       \strng{bibnamehash}{d28701d5d91d802283fd49aa6309b30c}
       \strng{authorbibnamehash}{d28701d5d91d802283fd49aa6309b30c}
       \strng{authornamehash}{d28701d5d91d802283fd49aa6309b30c}
       \strng{authorfullhash}{d28701d5d91d802283fd49aa6309b30c}
-      \strng{authorfullhashraw}{d28701d5d91d802283fd49aa6309b30c}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
