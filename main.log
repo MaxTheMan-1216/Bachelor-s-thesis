@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  12 APR 2026 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  12 APR 2026 20:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,34 +1024,34 @@ l.12
       [3
 
 ] [4]
-<Bilder/SE.png, id=223, 511.9125pt x 363.60844pt>
+<Bilder/SE.png, id=223, 341.275pt x 242.40562pt>
 File: Bilder/SE.png Graphic file (type png)
 <use Bilder/SE.png>
 Package pdftex.def Info: Bilder/SE.png  used on input line 35.
-(pdftex.def)             Requested size: 426.79135pt x 303.14868pt.
+(pdftex.def)             Requested size: 426.79135pt x 303.16531pt.
  [5]
-<Bilder/Social Engineering Attacks_ A Survey.jpg, id=235, 432.04892pt x 413.19588pt>
-File: Bilder/Social Engineering Attacks_ A Survey.jpg Graphic file (type jpg)
-<use Bilder/Social Engineering Attacks_ A Survey.jpg>
-Package pdftex.def Info: Bilder/Social Engineering Attacks_ A Survey.jpg  used on input line 49.
-(pdftex.def)             Requested size: 426.79135pt x 408.18251pt.
- [6 <./Bilder/SE.png>] [7 <./Bilder/Social Engineering Attacks_ A Survey.jpg>]
-<Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg, id=265, 2942.995pt x 1039.885pt>
-File: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg Graphic file (type jpg)
-<use Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg>
-Package pdftex.def Info: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg  used on input line 70.
-(pdftex.def)             Requested size: 426.79135pt x 150.80325pt.
- [8 <./Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.jpg>] [9]) (Kapitel/Social engineering i praktiken.tex [10]
+<Bilder/Social Engineering Attacks_ A Survey.png, id=235, 414.04688pt x 395.97937pt>
+File: Bilder/Social Engineering Attacks_ A Survey.png Graphic file (type png)
+<use Bilder/Social Engineering Attacks_ A Survey.png>
+Package pdftex.def Info: Bilder/Social Engineering Attacks_ A Survey.png  used on input line 49.
+(pdftex.def)             Requested size: 426.79135pt x 408.1775pt.
+ [6 <./Bilder/SE.png>] [7 <./Bilder/Social Engineering Attacks_ A Survey.png>]
+<Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.png, id=267, 2207.24625pt x 779.91376pt>
+File: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.png Graphic file (type png)
+<use Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.png>
+Package pdftex.def Info: Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.png  used on input line 70.
+(pdftex.def)             Requested size: 426.79135pt x 150.80327pt.
+ [8 <./Bilder/A Study on the Psychology of Social Engineering-Based Cyberattacks.png>] [9]) (Kapitel/Social engineering i praktiken.tex [10]
 Kapitel 3.
-<Bilder/SE33.png, id=305, 549.55313pt x 353.06906pt>
+<Bilder/SE33.png, id=308, 366.36874pt x 235.37938pt>
 File: Bilder/SE33.png Graphic file (type png)
 <use Bilder/SE33.png>
 Package pdftex.def Info: Bilder/SE33.png  used on input line 12.
-(pdftex.def)             Requested size: 426.79135pt x 274.20752pt.
+(pdftex.def)             Requested size: 426.79135pt x 274.2147pt.
 [11
 
 ] [12 <./Bilder/SE33.png>] [13] [14]
-<Bilder/A Study on the Psychology.png, id=351, 3222.0375pt x 791.95876pt>
+<Bilder/A Study on the Psychology.png, id=355, 3222.0375pt x 791.95876pt>
 File: Bilder/A Study on the Psychology.png Graphic file (type png)
 <use Bilder/A Study on the Psychology.png>
 Package pdftex.def Info: Bilder/A Study on the Psychology.png  used on input line 49.
@@ -1093,17 +1093,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29305 strings out of 467871
- 559636 string characters out of 5428449
- 1405535 words of memory out of 5000000
- 57648 multiletter control sequences out of 15000+600000
+ 29301 strings out of 467871
+ 559364 string characters out of 5428449
+ 1405607 words of memory out of 5000000
+ 57644 multiletter control sequences out of 15000+600000
  668037 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,6n,107p,1309b,1985s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Max\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (29 pages, 1061414 bytes).
+Output written on main.pdf (29 pages, 1169467 bytes).
 PDF statistics:
- 604 PDF objects out of 1000 (max. 8388607)
+ 608 PDF objects out of 1000 (max. 8388607)
  90 named destinations out of 1000 (max. 500000)
  264 words of extra memory for PDF output out of 10000 (max. 10000000)
 
