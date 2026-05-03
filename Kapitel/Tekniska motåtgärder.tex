@@ -13,10 +13,10 @@ på tekniska filtrerings- och analysmekanismer. I nätfiskedetektion används ex
 maskininlärningsbaserade klassificeringsmodeller för att identifiera suspekta meddelanden innan de når offret \cite{basnet2023anti_phishing}. Systemen kan exempelvis 
 analysera avsändarinformation, språkmönster och beteendeavvikelser för att markera potentiellt skadligt innehåll.
 
-Utöver de ovannämnda detektionssystemen används ofta säkerhetsinformation och händelsehantering (SIEM)-system för att samla in och korrelera säkerhetsloggar från olika 
+Utöver de ovannämnda detektionssystemen används ofta säkerhetsinformation och händelsehantering (SIEM-system) för att samla in och korrelera säkerhetsloggar från olika 
 delar av en organisations infrastruktur. Genom kombinationen av SIEM och intrångsdetekteringssystem (IDS) kan misstänkt aktivitet identifieras i realtid. 
 Enligt \cite{siem_comprehensive_study_2022} visar integrationen av SIEM och IDS med maskininlärningsmodeller en förbättrad förmåga att upptäcka ovanliga inloggningar 
-eller typiska åtkomstförsök. Moderna organisationer har även börjat implementera Security Orchestration, Automation and Response (SOAR)-system. Ett SOAR-system integrerar 
+eller typiska åtkomstförsök. Moderna organisationer har även börjat implementera Security Orchestration, Automation and Response (SOAR-system). Ett SOAR-system integrerar 
 flera olika säkerhetsverktyg i en gemensam miljö som möjliggör automatiserad hantering av säkerhetsincidenter \cite{almohri2024soar}. Genom insamlade data från exempelvis 
 SIEM-system, e-postfilter och hotinformationsdatabaser kan SOAR automatiskt initiera åtgärder såsom blockering av konton, isolering av enheter eller återkallande av 
 skadliga länkar. Därmed möjliggör SOAR snabbare identifiering och respons vid social engineering-relaterade incidenter.
@@ -33,7 +33,7 @@ engineering-attacker \cite{zhang2024digital_deception}.
 Orsaken till att AI har blivit ett viktigt verktyg för att motverka social engineering-attacker är dess förmåga att analysera stora mängder data och identifiera mönster 
 som kan vara svåra att upptäcka manuellt. I nätfiskedetektion används exempelvis maskininlärningsmodeller för att enkelt markera e-postmeddelanden baserat på språk, 
 metadata, URL-strukturer och avsändarbeteende \cite{basnet2023anti_phishing}. Genom att kontinuerligt träna modellerna med nya data kan försvaret mot social engineering 
-upprätthållas i realtid. Enligt \cite{abir2023ai_social_engineering} kan AI även användas för att förstärka användarstöd och beslutsfattande. Genom specialiserade varningssystem 
+upprätthållas i realtid. Enligt \cite{zhang2024digital_deception, basnet2023anti_phishing} kan AI även användas för att förstärka användarstöd och beslutsfattande. Genom specialiserade varningssystem 
 och kontextbaserade säkerhetsindikatorer kan AI minska risken för impulsivt agerande vid en social engineering-attack. 
 
 Som redan nämnt fungerar AI inte endast som en universallösning. Eftersom hotaktörer också använder AI för att skapa mer sofistikerade angrepp, uppstår det en form av kapprustning \cite{zhang2024digital_deception}. 
@@ -59,9 +59,9 @@ har ML också begränsningar. Modellerna är mycket beroende av kvaliteten på t
 detektion \cite{algarni2024comprehensive_taxonomy}. ML bör därför förstås som en del av en helhetsstrategi istället för en självständig lösning.
 
 \subsection{Begränsningar och risker med AI}
-Även om AI erbjuder avancerade möjligheter för detektion och respons med hjälp av ML, är teknologin ingen universallösning mot social engineering. Eftersom ML är grunden för AI påverkas AI indirekt av samma brister som 
-ML drabbas av. AI-baserade system är därmed beroende av inlärningsdata, modellarkitektur och uppdateringar. Om träningsdata är bristfälliga eller utsätts för en fientlig attack, kan modellen utveckla brister i 
-sin klassificeringsförmåga \cite{basnet2023anti_phishing, algarni2024comprehensive_taxonomy}. Därtill kvarstår det centrala problemet med AI, vilket är att hotaktörerna också använder sig av AI. Användningen av AI 
+Även om AI erbjuder avancerade möjligheter för detektion och respons med hjälp av ML, är teknologin ingen universallösning mot social engineering. Eftersom ML utgör en central del av många AI-baserade system påverkas AI 
+indirekt av samma begränsningar som ML-modeller uppvisar, såsom beroende av träningsdata, modellarkitektur och kontinuerliga uppdateringar \cite{basnet2023anti_phishing, algarni2024comprehensive_taxonomy}. Om träningsdata är bristfälliga eller utsätts för en fientlig attack, kan modellen utveckla brister i 
+sin klassificeringsförmåga. Därtill kvarstår det centrala problemet med AI, vilket är att hotaktörerna också använder sig av AI. Användningen av AI 
 skapar då indirekt en osynlig teknologisk kapprustning där både angripare och försvarare använder sig av samma verktyg för att ligga steget före den andra \cite{zhang2024digital_deception}.
 
 Dessutom förekommer det fler begränsningar med AI i form av dess analyseringsprocesser. AI analyserar tekniska indikatorer, medan social engineering i grunden är ett socio-tekniskt fenomen \cite{washo2021interdisciplinary}. 
@@ -70,15 +70,15 @@ uppstå i organisationer på grund av ett överdrivet beroende av AI. Överdrive
 
 \section{Autentisering och åtkomstkontroll}
 Eftersom social engineering är en kombination av både psykologisk manipulation och användning av tekniska verktyg, krävs det mer avancerade lösningar för att uppnå optimalt skydd. Tekniska system, som AI-baserat skydd, 
-kan identifiera och blockera många sorters angrepp, men den mänskliga faktorn kvarstår i beslutsprocesser och beteendemönster. Specifikt för organisationer spelar säkerhetskultur, utbildningsnivå och interna rutiner en avgörande 
-roll i hur motståndskraftiga de är mot social engineering \cite{washo2021interdisciplinary}. Trots de olika motåtgärderna är utbildnings- och medvetandeprogram bland de mest använda. Enligt \cite{albladi2019training_awareness} är 
-dessa utbildningsprogram däremot bristfälliga, eftersom utbildningen ofta erbjuds endast några gånger istället för kontinuerligt. För att uppnå ett effektivt skydd bör utbildningen vara återkommande, scenariobaserad och anpassad 
+kan identifiera och blockera många sorters angrepp, men den mänskliga faktorn kvarstår i beslutsprocesser och beteendemönster. Specifikt när det gäller organisationer spelar säkerhetskultur, utbildningsnivå och interna rutiner en avgörande 
+roll i hur motståndskraftiga de är mot social engineering \cite{washo2021interdisciplinary}. Trots de olika motåtgärderna är utbildnings- och medvetandeprogram riktade till anställda bland de mest använda säkerhetsåtgärdererna. Enligt \cite{albladi2019training_awareness} är 
+dessa utbildningsprogram dock bristfälliga, eftersom utbildningen ofta erbjuds endast några gånger istället för kontinuerligt. För att uppnå ett effektivt skydd bör utbildningen vara återkommande, scenariobaserad och anpassad 
 efter organisationens behov. 
 
 ENISA betonar betydelsen av att utveckla en stark cybersäkerhetskultur där säkerhetsbeteenden integreras i vardagliga rutiner \cite{enisa2018cybersecurity_culture}. Integrationen av cybersäkerhetskultur innebär att säkerheten 
 inte endast ska fungera som en teknisk funktion utan även som en del av organisationen och dess ledarskap. När dessa säkerhetsprinciper tydligt är anpassade till organisationens struktur minskar sannolikheten för lyckad manipulation. 
 Ett exempel på detta är användningen av simulerade nätfiskekampanjer för att mäta och förbättra arbetarnas motståndskraft \cite{albladi2018defense_mechanisms}. Genom kontrollerade tester kan organisationer identifiera sårbarheter och 
-anpassa utbildningsinsatser i efterhand. Samtidigt måste även dessa simuleringar genomföras med hänsyn till organisatorisk tillit och arbetsmiljö, eftersom övervakning kan påverka arbetarnas upplevelse och trygghet.
+anpassa utbildningsinsatser baserat på resultaten. Samtidigt måste även dessa simuleringar genomföras med hänsyn till organisatorisk tillit och arbetsmiljö, eftersom övervakning kan påverka arbetarnas upplevelse och trygghet.
 
 Utöver olika utbildningar är tydliga policyer och rutiner viktiga för säkerheten \cite{gururaj2024social_engineering}. Principer som lägsta behörighet, tydliga verifieringsprocesser vid ekonomiska transaktioner och 
 användning av flerfaktorautentisering bidrar också till förbättrat skydd \cite{algarni2024comprehensive_taxonomy}. Genom att implementera dessa strukturella säkerhetsåtgärder kan organisationer begränsa skadan även om en 
