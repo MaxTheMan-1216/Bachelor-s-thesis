@@ -1,6 +1,8 @@
 # Social Engineering in Cybersecurity
 
-This repository contains my Bachelor's thesis in Computer Engineering at Åbo Akademi University (2026).
+This repository contains my Bachelor's thesis in Computer Engineering at Åbo Akademi University (2026). The full thesis is available in **main.pdf.**
+
+For the best reading experience, it is recommended to download the PDF file locally, as some interactive features (such as navigation buttons) may not function properly in the browser preview.
 
 **Status:** Submitted – grade pending  
 **Language:** The full thesis is written in Swedish in accordance with Åbo Akademi University regulations for Bachelor's theses.
