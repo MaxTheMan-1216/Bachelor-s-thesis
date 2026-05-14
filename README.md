@@ -5,6 +5,7 @@ This repository contains my Bachelor's thesis in Computer Engineering at Åbo Ak
 For the best reading experience, it is recommended to download the PDF file locally, as some interactive features (such as navigation buttons) may not function properly in the browser preview.
 
 **Status:** Submitted – grade: **5/5**
+
 **Language:** The full thesis is written in Swedish in accordance with Åbo Akademi University regulations for Bachelor's theses.
 
 ## About the Thesis
